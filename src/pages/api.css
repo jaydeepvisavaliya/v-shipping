@@ -1,0 +1,100 @@
+.main {
+    text-align: center;
+    border: 5px solid black;
+    background-image: conic-gradient(rgba(148, 114, 114, 0.418), rgba(105, 105, 89, 0.493), rgba(206, 224, 206, 0.788));
+    padding: 20px;
+    width: 800px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+
+.text-2 {
+    display: flex;
+    justify-content: end;
+}
+
+.p1 {
+    font-size: 10px;
+    background-image: linear-gradient(to right, rgba(128, 138, 141, 0.596), rgba(70, 43, 41, 0.658));
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 5px rgba(110, 97, 97, 0.884);
+    color: #fff;
+}
+
+.p2 {
+    font-size: 10px;
+    background-image: linear-gradient(to right, rgba(128, 138, 141, 0.596), rgba(70, 43, 41, 0.658));
+    color: #fff;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 5px rgba(110, 97, 97, 0.884);
+}
+
+.p3 {
+    font-size: 10px;
+    background-image: linear-gradient(to right, rgba(128, 138, 141, 0.596), rgba(70, 43, 41, 0.658));
+    color: #fff;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 5px rgba(110, 97, 97, 0.884);
+}
+
+.p4 {
+    font-size: 10px;
+    background-image: linear-gradient(to right, rgba(128, 138, 141, 0.596), rgba(70, 43, 41, 0.658));
+    color: #fff;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 5px rgba(110, 97, 97, 0.884);
+}
+
+.img {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-12 {
+    display: flex;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px gray;
+    background-color: #fff;
+}
+
+.img11 img {
+    width: 100px;
+    height: auto;
+}
+
+.img1 img {
+    width: 200px;
+    height: auto;
+    margin-left: 10px;
+}
+
+.img22 img {
+    width: 100px;
+}
+
+.img2 img {
+    width: 300px;
+}
